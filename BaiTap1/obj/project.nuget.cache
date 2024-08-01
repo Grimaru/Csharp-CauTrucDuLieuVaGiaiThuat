@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TjVEuYxEnD5Ym9lfSbe0g0VArQWu7QP4MAWH1nC8eDnxBieJAdu8fXLVXWKtJ0UKWtn5oGMCAXaAsJtwADNqPA==",
+  "success": true,
+  "projectFilePath": "D:\\NguyenKimNgan\\THCTDLGT_NguyenKimNgan\\BaiTap1\\BaiTap1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SV\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

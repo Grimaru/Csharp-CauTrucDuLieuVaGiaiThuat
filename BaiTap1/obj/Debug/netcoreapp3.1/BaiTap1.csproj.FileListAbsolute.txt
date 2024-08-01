@@ -1,0 +1,14 @@
+D:\NguyenKimNgan\THCTDLGT_NguyenKimNgan\BaiTap1\bin\Debug\netcoreapp3.1\BaiTap1.exe
+D:\NguyenKimNgan\THCTDLGT_NguyenKimNgan\BaiTap1\bin\Debug\netcoreapp3.1\BaiTap1.deps.json
+D:\NguyenKimNgan\THCTDLGT_NguyenKimNgan\BaiTap1\bin\Debug\netcoreapp3.1\BaiTap1.runtimeconfig.json
+D:\NguyenKimNgan\THCTDLGT_NguyenKimNgan\BaiTap1\bin\Debug\netcoreapp3.1\BaiTap1.runtimeconfig.dev.json
+D:\NguyenKimNgan\THCTDLGT_NguyenKimNgan\BaiTap1\bin\Debug\netcoreapp3.1\BaiTap1.dll
+D:\NguyenKimNgan\THCTDLGT_NguyenKimNgan\BaiTap1\bin\Debug\netcoreapp3.1\BaiTap1.pdb
+D:\NguyenKimNgan\THCTDLGT_NguyenKimNgan\BaiTap1\obj\Debug\netcoreapp3.1\BaiTap1.csproj.AssemblyReference.cache
+D:\NguyenKimNgan\THCTDLGT_NguyenKimNgan\BaiTap1\obj\Debug\netcoreapp3.1\BaiTap1.GeneratedMSBuildEditorConfig.editorconfig
+D:\NguyenKimNgan\THCTDLGT_NguyenKimNgan\BaiTap1\obj\Debug\netcoreapp3.1\BaiTap1.AssemblyInfoInputs.cache
+D:\NguyenKimNgan\THCTDLGT_NguyenKimNgan\BaiTap1\obj\Debug\netcoreapp3.1\BaiTap1.AssemblyInfo.cs
+D:\NguyenKimNgan\THCTDLGT_NguyenKimNgan\BaiTap1\obj\Debug\netcoreapp3.1\BaiTap1.csproj.CoreCompileInputs.cache
+D:\NguyenKimNgan\THCTDLGT_NguyenKimNgan\BaiTap1\obj\Debug\netcoreapp3.1\BaiTap1.dll
+D:\NguyenKimNgan\THCTDLGT_NguyenKimNgan\BaiTap1\obj\Debug\netcoreapp3.1\BaiTap1.pdb
+D:\NguyenKimNgan\THCTDLGT_NguyenKimNgan\BaiTap1\obj\Debug\netcoreapp3.1\BaiTap1.genruntimeconfig.cache
